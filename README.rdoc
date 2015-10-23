@@ -9,9 +9,10 @@
 
 == Initial Setup
 
-    cd path/to/ruby_koans
+    git clone git@github.com:code-builders/ruby_koans.git
+    cd ruby_koans
     rake gen
-    
+
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
 The goal is to learn the Ruby language, syntax, structure, and some common
 functions and libraries. We also teach you culture by basing the koans on tests.
