@@ -1,5 +1,17 @@
 = Neo Ruby Koans
 
+== Quickstart
+
+    cd path/to/ruby_koans
+    cd koans
+    ruby path_to_enlightenment.rb
+
+
+== Initial Setup
+
+    cd path/to/ruby_koans
+    rake gen
+    
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
 The goal is to learn the Ruby language, syntax, structure, and some common
 functions and libraries. We also teach you culture by basing the koans on tests.
